@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.coverage
+htmlcov/
+.vs/
+.idea/
+.vscode/
+*.log
+Thumbs.db
+desktop.ini
+~$*
+dist/
+*.zip
